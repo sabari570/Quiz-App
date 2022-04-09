@@ -4,7 +4,7 @@ Quiz App
 
 ## Description
 
-    Quiz app developed using flutter extracting data from opentdb.com api.
+Quiz app developed using flutter extracting data from opentdb.com api.
 
 
 ## How to use
